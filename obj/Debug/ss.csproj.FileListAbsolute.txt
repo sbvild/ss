@@ -1,0 +1,8 @@
+C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\obj\Debug\ss.exe
+C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\obj\Debug\ss.pdb
+C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\bin\Debug\ss.exe
+C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\bin\Debug\ss.pdb
+C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\obj\Debug\ss.MainForm.resources
+C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\obj\Debug\GenerateResource.write.1.tlog

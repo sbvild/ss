@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <anyType xsi:type="Server">
+    <name>HTSELDB1</name>
+    <HostName>\192.168.101.26\</HostName>
+    <consoleLog>
+      <DIR>D$\HITU022H\PASLDATD\</DIR>
+      <FILE>aaaSV.txt</FILE>
+      <STARTUPPATTERN>[(&gt;\s+(?&lt;target&gt;.*)\s+なんとか)|(eee\s+&lt;?(target&gt;.*)\s+)]</STARTUPPATTERN>
+      <isStartUp>false</isStartUp>
+      <isError>false</isError>
+    </consoleLog>
+    <wfserviceLog>
+      <DIR>D$\TEMP</DIR>
+      <FILE>HitkotWFService.log</FILE>
+      <isEnabled>false</isEnabled>
+    </wfserviceLog>
+    <isEtc>true</isEtc>
+  </anyType>
+</ArrayOfAnyType>

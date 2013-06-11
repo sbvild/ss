@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ss">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\ss.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\ss.suo">
+</Property><Property Name="Date" Value="2013年6月10日">
+</Property><Property Name="Time" Value="22:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ss.sln" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\ss.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="ss.suo" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\ss.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="ss.csproj" Description="プロジェクト ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\ss.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="ss.csproj.user" Description="プロジェクト ユーザー ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\ss.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="AssemblyInfo.cs" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="Const.cs" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\Const.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="DataGridCustom.cs" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\DataGridCustom.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="Form1.cs" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\Form1.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="Log.cs" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\Log.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="MainForm.cs" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\MainForm.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="Server.cs" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\Server.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="Util.cs" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\Util.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="App.ico" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\App.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="MainForm.resx" Description="ファイルは正常に C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\Backup\MainForm.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ss" Source="ss.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="ss" Source="ss.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ss.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="ss.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ss" Source="ss.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

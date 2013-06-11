@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<ArrayOfServer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Server>
+    <name>HTSELDB1</name>
+    <HostName>aaa</HostName>
+    <consoleLog>
+      <DIR>C:\Users\s4\Documents\dev\net\朝チェッカー\朝チェッカー\ss\bin\Debug\</DIR>
+      <FILE>test.txt</FILE>
+      <STARTUPPATTERN>&gt;\s+(?&lt;target&gt;.*)\s+なんとか</STARTUPPATTERN>
+      <isStartUp>true</isStartUp>
+      <isError>true</isError>
+    </consoleLog>
+    <wfserviceLog>
+      <DIR>D$\TEMP</DIR>
+      <FILE>HitkotWFService.log</FILE>
+      <isEnabled>false</isEnabled>
+    </wfserviceLog>
+    <isEtc>true</isEtc>
+  </Server>
+</ArrayOfServer>
